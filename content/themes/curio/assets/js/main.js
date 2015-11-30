@@ -178,5 +178,6 @@ var themeApp = {
 2. Initialization
 ==========================*/
 $(document).ready(function(){
+	debugger;
 	themeApp.init();
 });
